@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Official Website
         altText: ''
         url: https://thegamevault777.com/
         showIcon: true
