@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Contact",
+            "label": "Telegram",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
