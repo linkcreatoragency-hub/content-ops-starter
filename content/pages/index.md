@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: https://gamevault777.netlify.app/
         showIcon: true
         icon: arrowRight
         iconPosition: right
