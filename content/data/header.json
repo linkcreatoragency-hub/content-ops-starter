@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Guide",
-            "url": "/pricing",
+            "url": "/Guide",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
