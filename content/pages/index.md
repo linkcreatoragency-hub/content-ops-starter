@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Download Gamevault 777 Latest APK
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Version 3.5.2 Available
     text: >
