@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
       - label: Official Website
-        altText: ''
+        altText: Official Website
         url: https://thegamevault777.com/
         showIcon: true
         icon: arrowRight
