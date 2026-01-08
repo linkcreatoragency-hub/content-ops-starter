@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Version 3.5.2 Available
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Download the latest GameVault 777 APK for Android. Enjoy smooth gameplay,
+      top casino games, secure access, and fast performance on your mobile
+      device.
     actions:
       - label: Get started
         altText: ''
